@@ -13,8 +13,8 @@ type person struct {
 
 func main() {
 	p1 := person{
-		first:    "Micheal",
-		last:     "Scott",
+		first:    "Pam",
+		last:     "Beasely",
 		iceCream: []string{"chocoate", "banana"},
 	}
 	p2 := person{
