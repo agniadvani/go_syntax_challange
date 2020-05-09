@@ -1,4 +1,4 @@
-// control flow closure
+// control flow closure.
 
 package main
 

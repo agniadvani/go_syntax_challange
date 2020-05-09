@@ -1,4 +1,4 @@
-// addition and multiplication of even numbers
+// addition and multiplication of even numbers.
 
 package main
 

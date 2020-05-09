@@ -1,4 +1,4 @@
-//Creating interfaces
+//Creating interfaces.
 package main
 
 import "fmt"
