@@ -1,4 +1,4 @@
-//Create a new type: vehicle.
+//Create a new type: vehicle
 
 //The underlying type is a struct.
 //The fields:
